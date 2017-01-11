@@ -15,6 +15,7 @@
     "less-middleware": "~2.2.0",
     "morgan": "^1.7.0",
     "node-sqlserver-unofficial": "^1.4.0",
+    "seriate": "^0.8.1",
     "serve-favicon": "~2.3.0",
     "tds": "^0.1.0"
   }
